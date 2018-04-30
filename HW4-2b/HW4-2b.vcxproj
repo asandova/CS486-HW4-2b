@@ -115,6 +115,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="IUPAC.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="makefile" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="IUPAC.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
