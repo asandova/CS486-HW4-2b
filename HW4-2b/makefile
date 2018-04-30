@@ -8,3 +8,6 @@ IUPAC.o: IUPAC.h IUPAC.cpp
 
 main.o: main.cpp IUPAC.h
 	g++ -c main.cpp
+clean:
+	rm -rf *.o
+

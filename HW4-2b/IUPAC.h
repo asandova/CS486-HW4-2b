@@ -2,7 +2,7 @@
 #define IUPAC_H
 
 #include <vector>
-
+#include <iostream>
 enum Nuclio
 {
 	//Follows the give IUPAC nucluotide code table

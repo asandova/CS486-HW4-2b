@@ -1,5 +1,7 @@
 #include "IUPAC.h"
 #include <string>
+#include <stdlib.h>
+#include <string.h>
 #include <iostream>
 
 using namespace std;
