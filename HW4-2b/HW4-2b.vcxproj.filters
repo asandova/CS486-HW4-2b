@@ -26,6 +26,9 @@
     <Text Include="makefile">
       <Filter>Resource Files</Filter>
     </Text>
+    <Text Include="README.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="IUPAC.h">

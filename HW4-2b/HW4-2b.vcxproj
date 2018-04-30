@@ -120,6 +120,7 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="makefile" />
+    <Text Include="README.txt" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="IUPAC.h" />
